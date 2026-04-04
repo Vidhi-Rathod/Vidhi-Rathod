@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#### I am Vidhi Rathod. I am currently a BS-MS Physics student at Indian Institute of Technology (IIT), Roorkee (2021-2026) with a deep fascination for quantum world. My journey into research really took off during my coursework in "Quantum Computing for Many-body Systems" (Grade - 8/10), it has given me experience in quantum algorithms, encoding schemes and quantum simulations. Beyond the lab, I am a dedicated leader and athelete, serving as Secretary (Volleyball) and General Secretary (Wellness Center) at IIT Roorkee has helped in management skills and holistic professional personality.    
 <!--
 **Vidhi-Rathod/Vidhi-Rathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
