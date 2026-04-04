@@ -5,7 +5,7 @@ I am currently a **BS-MS Physics student at Indian Institute of Technology (IIT)
 My journey into research really took off during my coursework in **"Quantum Computing for Many-body Systems"** earning **Grade of 8/10** was a turning point for me. It's where I gained experience in quantum algorithms, encoding schemes and quantum simulations. Buidling on that foundation, I worked on projects titled **"Shell Model study of 58-Ni using Variation Quantum Eigensolver (VQE)"** and **"Time Evolution of Quantum States Using Quantum Computing""**. 
 
 #### Extra-Cirricular 🏆
-Beyond the lab, I am a dedicated leader and athelete, serving as **Secretary (Volleyball) and General Secretary (Wellness Center) at IIT Roorkee** has helped me in management skills and in bulding a holistic professional personality.  
+Beyond the lab, I am a dedicated leader and athelete, serving as **Secretary (Volleyball) and General Secretary (Wellness Center) at IIT Roorkee** has helped me in management skills and in building a holistic professional personality.  
 
 #### I'm currently working on 🔭
 **Angular Momentum Algebra on Quantum Computers**, drafting the manuscript of my research work.
