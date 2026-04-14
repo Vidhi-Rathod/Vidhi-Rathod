@@ -1,14 +1,14 @@
 ## Hi, I'm Vidhi Rathod 👋
 I am currently a **BS-MS Physics student at Indian Institute of Technology (IIT), Roorkee** (2021-2026) and a researcher with a deep fascination for quantum world. My research interests are **Quantum Computing, Quantum Information**, and their power to reshape various fields like nuclear physics.  
 
+#### I'm currently working on 🔭
+**Angular Momentum Algebra on Quantum Computers**, (the manuscript under draft) and **Excited energy level calculation of various nuclie**
+
 #### My Research Path 🔬
 My journey into research really took off during my coursework in **"Quantum Computing for Many-body Systems"** earning **Grade of 8/10** was a turning point for me. It's where I gained experience in quantum algorithms, encoding schemes and quantum simulations. Buidling on that foundation, I worked on projects titled **"Shell Model study of 58-Ni using Variation Quantum Eigensolver (VQE)"** and **"Time Evolution of Quantum States Using Quantum Computing""**. 
 
 #### Extra-Cirricular 🏆
 Beyond the lab, I am a dedicated leader and athelete, serving as **Secretary (Volleyball) and General Secretary (Wellness Center) at IIT Roorkee** has helped me in management skills and in building a holistic professional personality.  
-
-#### I'm currently working on 🔭
-**Angular Momentum Algebra on Quantum Computers**, drafting the manuscript of my research work.
 
 <!--
 **Vidhi-Rathod/Vidhi-Rathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
